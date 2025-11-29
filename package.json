@@ -1,6 +1,6 @@
 {
   "name": "vedaxon-auth-framework",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A reusable authentication framework for Node.js apps",
   "main": "src/index.js",
   "scripts": {
