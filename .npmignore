@@ -1,0 +1,21 @@
+# Ignore source tests
+src/**/*.test.js
+tests/
+__tests__/
+
+# Ignore local config, logs, and env files
+*.env
+.env.local
+.env.*.local
+*.log
+.gitignore
+
+# Ignore node_modules (npm ignores this by default but safe)
+node_modules/
+
+# Ignore build artifacts or IDE files
+dist/
+build/
+.vscode/
+.idea/
+.DS_Store
