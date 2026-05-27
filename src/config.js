@@ -1,6 +1,6 @@
 const defaultConfig = {
   jwtSecret: process.env.JWT_SECRET || "default_secret",
-  tokenExpiry: "1h",
+  tokenExpiry: "30d",
   hashRounds: 12,
 };
 
